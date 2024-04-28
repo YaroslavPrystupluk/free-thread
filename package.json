@@ -17,7 +17,7 @@
 		"@emotion/react": "^11.11.1",
 		"@emotion/styled": "^11.11.0",
 		"@mui/icons-material": "^5.14.13",
-		"@mui/material": "^5.14.13",
+		"@mui/material": "^5.15.15",
 		"@reduxjs/toolkit": "^1.9.7",
 		"@types/react-router-dom": "^5.3.3",
 		"@types/styled-components": "^5.1.28",
